@@ -1,0 +1,8 @@
+Service:	Dropbox LAN Sync
+Protocol:	UDP
+Port:		17500
+
+Dynamic Packet Header
+00000000  7b 22 76 65 72 73 69 6f  6e 22 3a 20 5b ?? 2c 20  {"versio n": [?, 
+00000010  ?? 5d 2c 20 22 70 6f 72  74 22 3a 20 31 37 35 30  ?], "por t": 1750
+00000020  30 2c 20 22 68 6f 73 74  5f 69 6e 74 22 3a ?? ??  0, "host _int":??
